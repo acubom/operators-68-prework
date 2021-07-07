@@ -2,9 +2,9 @@
 
 #Question 1
 def hello(name):
-    print("Hello " + name.title()+ "!")
+    print("Hello " + name.upper()+ "!")
 
-print('christian')
+hello('christian')
 
 #Question 2
 def odd_numbers():
