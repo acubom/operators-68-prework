@@ -1,0 +1,68 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;      
+}
+
+.fspadding{
+    padding: 20px;
+}
+
+.logo-img{
+    display: block;
+    margin: 0 auto;
+}
+
+.center-span{
+    margin: 0 auto; 
+}
+
+fieldset{
+    width: 75%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px 25px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    margin: 0px auto;
+    text-decoration: none;
+}
+
+fieldset label{
+    font-size: 90%;
+}
+
+form input{
+    display: block;
+    width: 100%;
+    border: 1px solid grey;
+    border-radius: 2px;
+    margin-bottom: 25px;    
+}
+
+form input[type="submit"]{
+    background-color: goldenrod;
+    font-size: 90%;
+}
+
+.float-right{
+    float: right;
+}
+
+.float-left{
+    float: left;
+}
+
+button{
+    text-align:center;
+    margin: 0px auto;
+    align-content:center;
+}
+
+footer{
+    text-align:center;
+    margin: 0px auto;
+    font-size: 1em;
+    width: 100%;
+    height: 40px;
+    text-decoration: none;
+}
